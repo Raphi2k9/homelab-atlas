@@ -3,3 +3,5 @@ uvicorn[standard]
 proxmoxer
 requests
 python-dotenv
+
+urllib3
